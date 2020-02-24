@@ -2,7 +2,6 @@ aiofiles
 aria2p
 beautifulsoup4
 cfscrape
-coffeehouse
 cryptg
 googletrans
 google_images_download
@@ -15,7 +14,6 @@ qrcode
 regex
 requests
 selenium
-speedtest-cli
 sqlalchemy
 urbandict
 wikipedia

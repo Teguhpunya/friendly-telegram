@@ -45,4 +45,3 @@ telegraph
 oauth2client
 emoji
 google-api-python-client
-hachoir
