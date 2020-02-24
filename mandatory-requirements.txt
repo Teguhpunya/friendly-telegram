@@ -49,3 +49,5 @@ google_images_download
 wikipedia
 urbandict
 requests
+googletrans
+gtts

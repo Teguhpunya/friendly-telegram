@@ -1,7 +1,5 @@
 cowpy
 gTTS-token>=1.1.3
-googletrans>=2.4.0
-gtts>=2.0.1
 pybase64>=0.4.0
 python-dotenv
 pytube>=9.5.1

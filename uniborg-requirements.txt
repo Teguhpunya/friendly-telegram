@@ -3,15 +3,12 @@ aria2p
 beautifulsoup4
 cfscrape
 cryptg
-googletrans
-gtts
 psycopg2
 pySmartDL
 python-barcode
 python-magic
 qrcode
 regex
-requests
 selenium
 sqlalchemy
 youtube-dl
