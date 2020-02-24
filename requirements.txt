@@ -1,2 +1,4 @@
 -r optional-requirements.txt
 -r mandatory-requirements.txt
+-r uniborg-requirements.txt
+-r raphielgang-requirements.txt
