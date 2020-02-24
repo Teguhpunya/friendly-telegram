@@ -1,16 +1,12 @@
 aiofiles
-aiohttp
 aria2p
 beautifulsoup4
 cfscrape
 coffeehouse
 cryptg
-emoji
 googletrans
 google_images_download
 gtts
-hachoir
-Pillow
 psycopg2
 pySmartDL
 python-barcode
@@ -21,10 +17,7 @@ requests
 selenium
 speedtest-cli
 sqlalchemy
-telegraph
 urbandict
 wikipedia
 youtube-dl
-google-api-python-client
-oauth2client
 httplib2

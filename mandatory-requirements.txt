@@ -38,3 +38,11 @@ coffeehouse
 asyncurban
 # Google Search
 search-engine-parser >= 0.5.3
+
+# Common
+aiohttp
+telegraph
+oauth2client
+emoji
+google-api-python-client
+hachoir
