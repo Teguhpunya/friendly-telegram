@@ -4,7 +4,6 @@ beautifulsoup4
 cfscrape
 cryptg
 googletrans
-google_images_download
 gtts
 psycopg2
 pySmartDL
@@ -15,7 +14,5 @@ regex
 requests
 selenium
 sqlalchemy
-urbandict
-wikipedia
 youtube-dl
 httplib2

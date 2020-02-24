@@ -45,3 +45,7 @@ telegraph
 oauth2client
 emoji
 google-api-python-client
+google_images_download
+wikipedia
+urbandict
+requests
